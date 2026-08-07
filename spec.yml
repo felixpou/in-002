@@ -1,10 +1,10 @@
-amwa_id: IN-TEMPLATE
-url: https://specs.amwa.tv/in-template
-name: Template for AMWA Increment Documents
+amwa_id: IN-002
+url: https://specs.amwa.tv/in-002
+name: Time and Identity in the Dynamic Media Facility
 status: Work In Progress
-repo_name: in-template
+repo_name: in-002
 alt_repo_name:
-repo_url: https://github.com/AMWA-TV/in-template
+repo_url: https://github.com/AMWA-TV/in-002
 releases:
 default_branch: main
 show_in_index: false
