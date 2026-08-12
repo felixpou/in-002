@@ -3,7 +3,7 @@
 [![Lint Status](https://github.com/AMWA-TV/in-002/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/in-002/actions?query=workflow%3ALint)
 [![Render Status](https://github.com/AMWA-TV/in-002/workflows/Render/badge.svg)](https://github.com/AMWA-TV/in-002/actions?query=workflow%3ARender)
 
-This repository holds the source for this AMWA Increment Document from the [Advanced Media Workflow Association](https://amwa.tv)
+This repository holds the source for this AMWA Increment from the [Advanced Media Workflow Association](https://amwa.tv)
 
 <!-- INTRO-START -->
 

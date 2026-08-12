@@ -13,7 +13,7 @@
 # SITE_NAME are set by the calling workflow):
 #   SSH_USER, SSH_HOST, SSH_PRIVATE_KEY, SSH_KNOWN_HOSTS
 #   SPEC_SERVER  e.g. specs.amwa.tv
-#   SITE_NAME    e.g. in-002
+#   SITE_NAME    e.g. in-template
 
 set -o errexit
 
