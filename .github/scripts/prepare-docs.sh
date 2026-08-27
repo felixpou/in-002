@@ -20,7 +20,7 @@
 
 set -euo pipefail
 
-REPO_SLUG="${GITHUB_REPOSITORY:-AMWA-TV/in-template}"
+REPO_SLUG="AMWA-TV/in-002"
 # Use BUILD_REF if the workflow set one (covers dispatch with an input ref),
 # else the ref the run was triggered on, else fall back to main.
 REF="${BUILD_REF:-${GITHUB_REF_NAME:-main}}"
@@ -41,7 +41,7 @@ sed -E \
     -e "s#\]\(CONTRIBUTING\.md\)#](${REPO_URL}/CONTRIBUTING.md)#g" \
     -e "s#\]\(SECURITY\.md\)#](${REPO_URL}/SECURITY.md)#g" \
     -e "s#\]\(examples/([^)]+)\)#](${REPO_URL}/examples/\1)#g" \
-    -e "s#https://github.com/${REPO_SLUG}/blob/[0-9a-f]+/docs/([^)\" ]+)#\1#g" \
+    -e "s#https://github.com/AMWA-TV/in-002/blob/[0-9a-f]+/docs/([^)\" ]+)#\1#g" \
     README.md > docs/index.md
 
 echo "Generated docs/index.md from README.md"
