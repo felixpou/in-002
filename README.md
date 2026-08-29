@@ -2,7 +2,6 @@
 
 [![Lint Status](https://github.com/AMWA-TV/in-002/actions/workflows/lint.yml/badge.svg)](https://github.com/AMWA-TV/in-002/actions/workflows/lint.yml)
 [![Zensical Render Status](https://github.com/AMWA-TV/in-002/actions/workflows/docs.yml/badge.svg)](https://github.com/AMWA-TV/in-002/actions/workflows/docs.yml)
-[![Legacy Render Status](https://github.com/AMWA-TV/in-002/workflows/Render/badge.svg)](https://github.com/AMWA-TV/in-002/actions?query=workflow%3ARender)
 [![License](https://img.shields.io/github/license/AMWA-TV/in-002)](https://github.com/AMWA-TV/in-002/blob/HEAD/LICENSE)
 [![Issues](https://img.shields.io/github/issues/AMWA-TV/in-002)](https://github.com/AMWA-TV/in-002/issues)
 
