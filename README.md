@@ -1,4 +1,4 @@
-# \[Work In Progress\] AMWA IN-002: Time and Identity in the Dynamic Media Facility
+# AMWA IN-002: Time and Identity in the Dynamic Media Facility
 
 [![Lint Status](https://github.com/AMWA-TV/in-002/actions/workflows/lint.yml/badge.svg)](https://github.com/AMWA-TV/in-002/actions/workflows/lint.yml)
 [![Zensical Render Status](https://github.com/AMWA-TV/in-002/actions/workflows/docs.yml/badge.svg)](https://github.com/AMWA-TV/in-002/actions/workflows/docs.yml)
